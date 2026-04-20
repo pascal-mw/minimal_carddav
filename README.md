@@ -102,7 +102,6 @@ upsert_contact(
     phone_short="12345",            # internal short dial
     phone_mobile="+49123123456789",  # carrier number
     email="doe@example.com",
-    department="Institute of Thermodynamics",
 )
 
 # Person without title
